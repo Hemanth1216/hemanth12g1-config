@@ -2,7 +2,7 @@ build:
   version: "2.0-c"
 
 cards:
-  name: "Hemanth-cards-QA (test)"
+  name: "Hemanth-cards-QA (test-rabbitmq)"
   tech:
     - Angular-cards-QA
     - SpringBoot-cards-QA
