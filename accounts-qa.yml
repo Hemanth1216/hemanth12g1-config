@@ -2,7 +2,7 @@ build:
   version: "2.0-a"
 
 accounts:
-  name: "Hemanth-accounts-QA (test)"
+  name: "Hemanth-accounts-QA (test-rabbitmq)"
   tech:
     - Angular-accounts-QA
     - SpringBoot-accounts-QA
