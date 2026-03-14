@@ -2,7 +2,7 @@ build:
   version: "2.0-l"
 
 loans:
-  name: "Hemanth-loans-QA (testing)"
+  name: "Hemanth-loans-QA (testing-rabbitmq)"
   tech:
     - Angular-loans-QA(Test)
     - SpringBoot-loans-QA(Test)
