@@ -1,8 +1,8 @@
 build:
-  version: "2.0-a (test)"
+  version: "2.0-a"
 
 accounts:
-  name: "Hemanth-accounts-QA"
+  name: "Hemanth-accounts-QA (test)"
   tech:
     - Angular-accounts-QA
     - SpringBoot-accounts-QA
