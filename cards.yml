@@ -1,0 +1,8 @@
+build:
+  version: "3.0-c"
+
+cards:
+  name: "Hemanth-cards-LOCAL"
+  tech:
+    - Angular-cards-LOCAL
+    - SpringBoot-cards-LOCAL

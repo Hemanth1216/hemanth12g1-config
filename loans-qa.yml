@@ -1,0 +1,8 @@
+build:
+  version: "2.0-l"
+
+loans:
+  name: "Hemanth-loans-QA"
+  tech:
+    - Angular-loans-QA
+    - SpringBoot-loans-QA

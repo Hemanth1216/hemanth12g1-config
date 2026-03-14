@@ -1,0 +1,8 @@
+build:
+  version: "3.0-a"
+
+accounts:
+  name: "Hemanth-accounts-LOCAL"
+  tech:
+    - Angular-accounts-LOCAL
+    - SpringBoot-accounts-LOCAL

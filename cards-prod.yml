@@ -1,0 +1,8 @@
+build:
+  version: "1.0-c"
+
+cards:
+  name: "Hemanth-cards-PROD"
+  tech:
+    - Angular-cards-PROD
+    - SpringBoot-cards-PROD

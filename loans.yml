@@ -1,0 +1,8 @@
+build:
+  version: "3.0-l"
+
+loans:
+  name: "Hemanth-loans-LOCAL"
+  tech:
+    - Angular-loans-LOCAL
+    - SpringBoot-loans-LOCAL

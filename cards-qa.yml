@@ -1,0 +1,8 @@
+build:
+  version: "2.0-c"
+
+cards:
+  name: "Hemanth-cards-QA"
+  tech:
+    - Angular-cards-QA
+    - SpringBoot-cards-QA

@@ -1,0 +1,8 @@
+build:
+  version: "1.0-l"
+
+loans:
+  name: "Hemanth-loans-PROD"
+  tech:
+    - Angular-loans-PROD
+    - SpringBoot-loans-PROD

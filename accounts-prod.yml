@@ -1,0 +1,8 @@
+build:
+  version: "1.0-a"
+
+accounts:
+  name: "Hemanth-accounts-PROD"
+  tech:
+    - Angular-accounts-PROD
+    - SpringBoot-accounts-PROD
